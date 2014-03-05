@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="sdf3wer3.sdf3wer3">
+	<uses-sdk />
+	<application android:label="sdf3wer3"></application>
+</manifest>
